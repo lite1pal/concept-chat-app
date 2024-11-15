@@ -63,8 +63,10 @@ function FinalCTASection() {
               </Paragraph>
               <Line className="w-[265px] border-b-2 mt-3 border-primary fade-in-up" />
               <div className="mt-6 xl:mt-12 flex flex-col xl:flex-row xl:items-center gap-[20px] xl:gap-7 fade-in-up">
-                <Button variant="secondary">Try it Free</Button>
-                <Button>Get a Demo</Button>
+                <Button variant="secondary" className="px-[79px]">
+                  Try it Free
+                </Button>
+                <Button className="px-[79px]">Get a Demo</Button>
               </div>
               <div className="mt-10 xl:mt-16 flex flex-col xl:flex-row items-start gap-1.5 xl:gap-16 fade-in-up">
                 <div className="flex mt-1 items-center gap-0.5 fade-in-up">

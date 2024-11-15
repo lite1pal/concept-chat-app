@@ -28,7 +28,7 @@ function HeroSection() {
           <div className="flex flex-col">
             <Line className="mb-10" />
             <div className="flex flex-col gap-[17px] xl:gap-[50px]">
-              <Heading1 className="text-[34px] xl:text-[94px] max-w-[315px] xl:max-w-[596px] text-white xl:leading-[111px] tracking-[-0.03em]">
+              <Heading1 className="text-[34px] sm:text-[64px] sm:leading-[70px] sm:max-w-full xl:text-[94px] max-w-[315px] xl:max-w-[596px] text-white xl:leading-[111px] tracking-[-0.03em]">
                 Have your best call
               </Heading1>
               {/* <Heading1 className="text-[94px] w-[580px] text-white leading-[95px] tracking-[-0.03em]">
